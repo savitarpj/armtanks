@@ -431,7 +431,6 @@
 	   },
 	   {
             "name": "map_stelmas.xml",
-            "name": "map_stelmas.xml",
             "libs": [
                 "resources/library/LandTiles.tara",
                 "resources/library/GrassTiles.tara",
