@@ -30,6 +30,43 @@
 			]
 		},
 		{
+            "name": "map_stadium.xml",
+            "libs": [
+                "resources/library/LandTiles.tara",
+                "resources/library/OuterWalls.tara",
+                "resources/library/Passage.tara",
+                "resources/library/WaffleFence.tara",
+                "resources/library/IndustrialBridge.tara",
+                "resources/library/Promotion.tara"
+            ]
+        },
+		{
+            "name": "map_kungur.xml",
+            "libs": [
+                "resources/library/GrassTiles.tara",
+                "resources/library/ConcreteTiles.tara",
+                "resources/library/Bush.tara",
+                "resources/library/SlopesRises.tara",
+                "resources/library/ConcreteWalls.tara",
+                "resources/library/Cliffs.tara",
+                "resources/library/VillageBuilds.tara",
+                "resources/library/CityBuilds.tara",
+                "resources/library/BridgeParts.tara",
+                "resources/library/Promotion.tara",
+                "resources/library/NuBu2.tara",
+                "resources/library/NuBu4.tara",
+                "resources/library/NuBu12.tara",
+                "resources/library/NuBu6.tara",
+                "resources/library/NuBu9.tara",
+                "resources/library/NuBu5.tara",
+                "resources/library/Roadblock.tara",
+                "resources/library/NuBu3.tara",
+                "resources/library/NuBu14.tara",
+                "resources/library/NuBu8.tara",
+                "resources/library/NuBu10.tara"
+            ]
+        },
+		{
 			"name": "map_alexandrovsk.xml",
 			"libs": [
 				"resources/library/Trees.tara",
