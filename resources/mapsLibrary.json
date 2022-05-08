@@ -499,7 +499,7 @@
 			"resources/library/Roadblock.tara"
 						]
 				   },
-						   {
+				   {
 						"name": "map_halloween_wolfenstein.xml",
 						"libs": [
 			"resources/library/ConcreteTiles.tara",
@@ -2711,21 +2711,21 @@
             "name": "map_zone.xml",
             "libs": [
                 "resources/library/Elements v1.tara",
-"resources/library/Land_v1.tara",
-"resources/library/LandTiles.tara",
-"resources/library/Roadblock.tara",
-"resources/library/Bush.tara",
-"resources/library/IndustrialElements.tara",
-"resources/library/IndustrialBridge.tara",
-"resources/library/Stuffs.tara",
-"resources/library/LandRocks.tara",
-"resources/library/WaffleFence.tara",
-"resources/library/Promotion.tara",
-"resources/library/CityBuildings.tara",
-"resources/library/SlopesRises.tara",
-"resources/library/Trees.tara",
-"resources/library/CityBuilds.tara",
-"resources/library/NuBu9.tara"
+				"resources/library/Land_v1.tara",
+				"resources/library/LandTiles.tara",
+				"resources/library/Roadblock.tara",
+				"resources/library/Bush.tara",
+				"resources/library/IndustrialElements.tara",
+				"resources/library/IndustrialBridge.tara",
+				"resources/library/Stuffs.tara",
+				"resources/library/LandRocks.tara",
+				"resources/library/WaffleFence.tara",
+				"resources/library/Promotion.tara",
+				"resources/library/CityBuildings.tara",
+				"resources/library/SlopesRises.tara",
+				"resources/library/Trees.tara",
+				"resources/library/CityBuilds.tara",
+				"resources/library/NuBu9.tara"
             ]
         },
         {
