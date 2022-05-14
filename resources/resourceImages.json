@@ -3808,6 +3808,10 @@
 			"src": "resources/maps/map_sandbox_preview.jpg"
 		},
 		{
+			"name": "map_sandbox_winter_preview",
+			"src": "resources/maps/map_sandbox_winter_preview.jpg"
+		},
+		{
 			"name": "map_sandbox_hr_preview",
 			"src": "resources/maps/map_sandbox_preview.jpg"
 		},
