@@ -119,7 +119,7 @@
         },
 		{
 			"name": "pumpkingun_m0",
-			"src": "https://savitarpj.github.io/armtanks/resources/turret/pumpkingun/m0/turret.3ds"
+			"src": "resources/turret/pumpkingun/m0/turret.3ds"
 		},
 		{
 			"name": "pumpkingun_m1",

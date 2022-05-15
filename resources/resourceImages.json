@@ -4048,15 +4048,15 @@
 		},
 		{
 			"name": "pumpkingun_m0_details",
-			"src": "https://savitarpj.github.io/armtanks/resources/turret/pumpkingun/m0/details.png"
+			"src": "resources/turret/pumpkingun/m0/details.png"
 		},
 		{
 			"name": "pumpkingun_m0_lightmap",
-			"src": "https://savitarpj.github.io/armtanks/resources/turret/pumpkingun/m0/lightmap.jpg"
+			"src": "resources/turret/pumpkingun/m0/lightmap.jpg"
 		},
 		{
 			"name": "pumpkingun_m0_preview",
-			"src": "https://savitarpj.github.io/armtanks/resources/turret/pumpkingun/m0/preview.png"
+			"src": "resources/turret/pumpkingun/m0/preview.png"
 		},
 		{
 			"name": "pumpkingun_m1_lightmap",
@@ -4096,23 +4096,23 @@
 		},
 		{
 			"name": "pumpkingun_m0_bumpFlashTextureId",
-			"src": "https://savitarpj.github.io/armtanks/resources/turret/pumpkingun/m0/pumpkingun_shot_flash.png"
+			"src": "resources/turret/pumpkingun/m0/pumpkingun_shot_flash.png"
 		},
 		{
 			"name": "pumpkingun_m0_explosionTextureId",
-			"src": "https://savitarpj.github.io/armtanks/resources/turret/pumpkingun/m0/pumpkingun_explosion.png"
+			"src": "resources/turret/pumpkingun/m0/pumpkingun_explosion.png"
 		},
 		{
 			"name": "pumpkingun_m0_shotFlashTextureId",
-			"src": "https://savitarpj.github.io/armtanks/resources/turret/pumpkingun/m0/pumpkingun_shot_flash.png"
+			"src": "resources/turret/pumpkingun/m0/pumpkingun_shot_flash.png"
 		},
 		{
 			"name": "pumpkingun_m0_shotTextureId",
-			"src": "https://savitarpj.github.io/armtanks/resources/turret/pumpkingun/m0/pumpkingun_shot.png"
+			"src": "resources/turret/pumpkingun/m0/pumpkingun_shot.png"
 		},
 		{
 			"name": "pumpkingun_m0_tailTrailTextureId",
-			"src": "https://savitarpj.github.io/armtanks/resources/turret/pumpkingun/m0/pumpkingun_shot_trail.png"
+			"src": "resources/turret/pumpkingun/m0/pumpkingun_shot_trail.png"
 		},
 		{
 			"name": "pumpkingun_m1_bumpFlashTextureId",
