@@ -182,483 +182,483 @@
 		},
 		{
             "name": "skybox29_1",
-            "src": "resources/skyboxes/skybox/29/04.jpg"
+            "src": "resources/skyboxes/skybox29/04.jpg"
         },
         {
             "name": "skybox29_2",
-            "src": "resources/skyboxes/skybox/29/02.jpg"
+            "src": "resources/skyboxes/skybox29/02.jpg"
         },
         {
             "name": "skybox29_3",
-            "src": "resources/skyboxes/skybox/29/03.jpg"
+            "src": "resources/skyboxes/skybox29/03.jpg"
         },
         {
             "name": "skybox29_4",
-            "src": "resources/skyboxes/skybox/29/01.jpg"
+            "src": "resources/skyboxes/skybox29/01.jpg"
         },
         {
             "name": "skybox29_5",
-            "src": "resources/skyboxes/skybox/29/06.jpg"
+            "src": "resources/skyboxes/skybox29/06.jpg"
         },
         {
             "name": "skybox29_6",
-            "src": "resources/skyboxes/skybox/29/05.jpg"
+            "src": "resources/skyboxes/skybox29/05.jpg"
         },
 		{
             "name": "skybox38_1",
-            "src": "resources/skyboxes/skybox/38/04.jpg"
+            "src": "resources/skyboxes/skybox38/04.jpg"
         },
         {
             "name": "skybox38_2",
-            "src": "resources/skyboxes/skybox/38/02.jpg"
+            "src": "resources/skyboxes/skybox38/02.jpg"
         },
         {
             "name": "skybox38_3",
-            "src": "resources/skyboxes/skybox/38/03.jpg"
+            "src": "resources/skyboxes/skybox38/03.jpg"
         },
         {
             "name": "skybox38_4",
-            "src": "resources/skyboxes/skybox/38/01.jpg"
+            "src": "resources/skyboxes/skybox38/01.jpg"
         },
         {
             "name": "skybox38_5",
-            "src": "resources/skyboxes/skybox/38/06.jpg"
+            "src": "resources/skyboxes/skybox38/06.jpg"
         },
         {
             "name": "skybox38_6",
-            "src": "resources/skyboxes/skybox/38/05.jpg"
+            "src": "resources/skyboxes/skybox38/05.jpg"
         },
 		{
             "name": "skybox37_1",
-            "src": "resources/skyboxes/skybox/37/04.jpg"
+            "src": "resources/skyboxes/skybox37/04.jpg"
         },
         {
             "name": "skybox37_2",
-            "src": "resources/skyboxes/skybox/37/02.jpg"
+            "src": "resources/skyboxes/skybox37/02.jpg"
         },
         {
             "name": "skybox37_3",
-            "src": "resources/skyboxes/skybox/37/03.jpg"
+            "src": "resources/skyboxes/skybox37/03.jpg"
         },
         {
             "name": "skybox37_4",
-            "src": "resources/skyboxes/skybox/37/01.jpg"
+            "src": "resources/skyboxes/skybox37/01.jpg"
         },
         {
             "name": "skybox37_5",
-            "src": "resources/skyboxes/skybox/37/06.jpg"
+            "src": "resources/skyboxes/skybox37/06.jpg"
         },
         {
             "name": "skybox37_6",
-            "src": "resources/skyboxes/skybox/37/05.jpg"
+            "src": "resources/skyboxes/skybox37/05.jpg"
         },
 		{
             "name": "skybox15_1",
-            "src": "resources/skyboxes/skybox/15/04.jpg"
+            "src": "resources/skyboxes/skybox15/04.jpg"
         },
         {
             "name": "skybox15_2",
-            "src": "resources/skyboxes/skybox/15/02.jpg"
+            "src": "resources/skyboxes/skybox15/02.jpg"
         },
         {
             "name": "skybox15_3",
-            "src": "resources/skyboxes/skybox/15/03.jpg"
+            "src": "resources/skyboxes/skybox15/03.jpg"
         },
         {
             "name": "skybox15_4",
-            "src": "resources/skyboxes/skybox/15/01.jpg"
+            "src": "resources/skyboxes/skybox15/01.jpg"
         },
         {
             "name": "skybox15_5",
-            "src": "resources/skyboxes/skybox/15/06.jpg"
+            "src": "resources/skyboxes/skybox15/06.jpg"
         },
         {
             "name": "skybox15_6",
-            "src": "resources/skyboxes/skybox/15/05.jpg"
+            "src": "resources/skyboxes/skybox15/05.jpg"
         },
 		{
             "name": "skybox40_1",
-            "src": "resources/skyboxes/skybox/40/04.jpg"
+            "src": "resources/skyboxes/skybox40/04.jpg"
         },
         {
             "name": "skybox40_2",
-            "src": "resources/skyboxes/skybox/40/02.jpg"
+            "src": "resources/skyboxes/skybox40/02.jpg"
         },
         {
             "name": "skybox40_3",
-            "src": "resources/skyboxes/skybox/40/03.jpg"
+            "src": "resources/skyboxes/skybox40/03.jpg"
         },
         {
             "name": "skybox40_4",
-            "src": "resources/skyboxes/skybox/40/01.jpg"
+            "src": "resources/skyboxes/skybox40/01.jpg"
         },
         {
             "name": "skybox40_5",
-            "src": "resources/skyboxes/skybox/40/06.jpg"
+            "src": "resources/skyboxes/skybox40/06.jpg"
         },
         {
             "name": "skybox40_6",
-            "src": "resources/skyboxes/skybox/40/05.jpg"
+            "src": "resources/skyboxes/skybox40/05.jpg"
         },
 		{
 			"name": "skybox35_1",
-			"src": "resources/skyboxes/skybox/35/01.jpg"
+			"src": "resources/skyboxes/skybox35/01.jpg"
 		},
 		{
 			"name": "skybox35_2",
-			"src": "resources/skyboxes/skybox/35/02.jpg"
+			"src": "resources/skyboxes/skybox35/02.jpg"
 		},
 		{
 			"name": "skybox35_3",
-			"src": "resources/skyboxes/skybox/35/03.jpg"
+			"src": "resources/skyboxes/skybox35/03.jpg"
 		},
 		{
 			"name": "skybox35_4",
-			"src": "resources/skyboxes/skybox/35/04.jpg"
+			"src": "resources/skyboxes/skybox35/04.jpg"
 		},
 		{
 			"name": "skybox35_5",
-			"src": "resources/skyboxes/skybox/35/05.jpg"
+			"src": "resources/skyboxes/skybox35/05.jpg"
 		},
 		{
 			"name": "skybox35_6",
-			"src": "resources/skyboxes/skybox/35/06.jpg"
+			"src": "resources/skyboxes/skybox35/06.jpg"
 		},
 		{
             "name": "skybox39_1",
-            "src": "resources/skyboxes/skybox/39/04.jpg"
+            "src": "resources/skyboxes/skybox39/04.jpg"
         },
         {
             "name": "skybox39_2",
-            "src": "resources/skyboxes/skybox/39/02.jpg"
+            "src": "resources/skyboxes/skybox39/02.jpg"
         },
         {
             "name": "skybox39_3",
-            "src": "resources/skyboxes/skybox/39/03.jpg"
+            "src": "resources/skyboxes/skybox39/03.jpg"
         },
         {
             "name": "skybox39_4",
-            "src": "resources/skyboxes/skybox/39/01.jpg"
+            "src": "resources/skyboxes/skybox39/01.jpg"
         },
         {
             "name": "skybox39_5",
-            "src": "resources/skyboxes/skybox/39/06.jpg"
+            "src": "resources/skyboxes/skybox39/06.jpg"
         },
         {
             "name": "skybox39_6",
-            "src": "resources/skyboxes/skybox/39/05.jpg"
+            "src": "resources/skyboxes/skybox39/05.jpg"
         },
 		{
             "name": "skybox4_1",
-            "src": "resources/skyboxes/skybox/4/04.jpg"
+            "src": "resources/skyboxes/skybox4/04.jpg"
         },
         {
             "name": "skybox4_2",
-            "src": "resources/skyboxes/skybox/4/02.jpg"
+            "src": "resources/skyboxes/skybox4/02.jpg"
         },
         {
             "name": "skybox4_3",
-            "src": "resources/skyboxes/skybox/4/03.jpg"
+            "src": "resources/skyboxes/skybox4/03.jpg"
         },
         {
             "name": "skybox4_4",
-            "src": "resources/skyboxes/skybox/4/01.jpg"
+            "src": "resources/skyboxes/skybox4/01.jpg"
         },
         {
             "name": "skybox4_5",
-            "src": "resources/skyboxes/skybox/4/06.jpg"
+            "src": "resources/skyboxes/skybox4/06.jpg"
         },
         {
             "name": "skybox4_6",
-            "src": "resources/skyboxes/skybox/4/05.jpg"
+            "src": "resources/skyboxes/skybox4/05.jpg"
         },
 		{
             "name": "skybox6_1",
-            "src": "resources/skyboxes/skybox/6/04.jpg"
+            "src": "resources/skyboxes/skybox6/04.jpg"
         },
         {
             "name": "skybox6_2",
-            "src": "resources/skyboxes/skybox/6/02.jpg"
+            "src": "resources/skyboxes/skybox6/02.jpg"
         },
         {
             "name": "skybox6_3",
-            "src": "resources/skyboxes/skybox/6/03.jpg"
+            "src": "resources/skyboxes/skybox6/03.jpg"
         },
         {
             "name": "skybox6_4",
-            "src": "resources/skyboxes/skybox/6/01.jpg"
+            "src": "resources/skyboxes/skybox6/01.jpg"
         },
         {
             "name": "skybox6_5",
-            "src": "resources/skyboxes/skybox/6/06.jpg"
+            "src": "resources/skyboxes/skybox6/06.jpg"
         },
         {
             "name": "skybox6_6",
-            "src": "resources/skyboxes/skybox/6/05.jpg"
+            "src": "resources/skyboxes/skybox6/05.jpg"
         },
         {
             "name": "skybox7_1",
-            "src": "resources/skyboxes/skybox/7/04.jpg"
+            "src": "resources/skyboxes/skybox7/04.jpg"
         },
         {
             "name": "skybox7_2",
-            "src": "resources/skyboxes/skybox/7/02.jpg"
+            "src": "resources/skyboxes/skybox7/02.jpg"
         },
         {
             "name": "skybox7_3",
-            "src": "resources/skyboxes/skybox/7/03.jpg"
+            "src": "resources/skyboxes/skybox7/03.jpg"
         },
         {
             "name": "skybox7_4",
-            "src": "resources/skyboxes/skybox/7/01.jpg"
+            "src": "resources/skyboxes/skybox7/01.jpg"
         },
         {
             "name": "skybox7_5",
-            "src": "resources/skyboxes/skybox/7/06.jpg"
+            "src": "resources/skyboxes/skybox7/06.jpg"
         },
         {
             "name": "skybox7_6",
-            "src": "resources/skyboxes/skybox/7/05.jpg"
+            "src": "resources/skyboxes/skybox7/05.jpg"
         },
         {
             "name": "skybox9_1",
-            "src": "resources/skyboxes/skybox/9/04.jpg"
+            "src": "resources/skyboxes/skybox9/04.jpg"
         },
         {
             "name": "skybox9_2",
-            "src": "resources/skyboxes/skybox/9/02.jpg"
+            "src": "resources/skyboxes/skybox9/02.jpg"
         },
         {
             "name": "skybox9_3",
-            "src": "resources/skyboxes/skybox/9/03.jpg"
+            "src": "resources/skyboxes/skybox9/03.jpg"
         },
         {
             "name": "skybox9_4",
-            "src": "resources/skyboxes/skybox/9/01.jpg"
+            "src": "resources/skyboxes/skybox9/01.jpg"
         },
         {
             "name": "skybox9_5",
-            "src": "resources/skyboxes/skybox/9/06.jpg"
+            "src": "resources/skyboxes/skybox9/06.jpg"
         },
         {
             "name": "skybox9_6",
-            "src": "resources/skyboxes/skybox/9/05.jpg"
+            "src": "resources/skyboxes/skybox9/05.jpg"
         },
 		{
             "name": "skybox13_1",
-            "src": "resources/skyboxes/skybox/13/04.jpg"
+            "src": "resources/skyboxes/skybox13/04.jpg"
         },
         {
             "name": "skybox13_2",
-            "src": "resources/skyboxes/skybox/13/02.jpg"
+            "src": "resources/skyboxes/skybox13/02.jpg"
         },
         {
             "name": "skybox13_3",
-            "src": "resources/skyboxes/skybox/13/03.jpg"
+            "src": "resources/skyboxes/skybox13/03.jpg"
         },
         {
             "name": "skybox13_4",
-            "src": "resources/skyboxes/skybox/13/01.jpg"
+            "src": "resources/skyboxes/skybox13/01.jpg"
         },
         {
             "name": "skybox13_5",
-            "src": "resources/skyboxes/skybox/13/06.jpg"
+            "src": "resources/skyboxes/skybox13/06.jpg"
         },
         {
             "name": "skybox13_6",
-            "src": "resources/skyboxes/skybox/13/05.jpg"
+            "src": "resources/skyboxes/skybox13/05.jpg"
         },
 		{
             "name": "skybox23_1",
-            "src": "resources/skyboxes/skybox/23/04.jpg"
+            "src": "resources/skyboxes/skybox23/04.jpg"
         },
         {
             "name": "skybox23_2",
-            "src": "resources/skyboxes/skybox/23/02.jpg"
+            "src": "resources/skyboxes/skybox23/02.jpg"
         },
         {
             "name": "skybox23_3",
-            "src": "resources/skyboxes/skybox/23/03.jpg"
+            "src": "resources/skyboxes/skybox23/03.jpg"
         },
         {
             "name": "skybox23_4",
-            "src": "resources/skyboxes/skybox/23/01.jpg"
+            "src": "resources/skyboxes/skybox23/01.jpg"
         },
         {
             "name": "skybox23_5",
-            "src": "resources/skyboxes/skybox/23/06.jpg"
+            "src": "resources/skyboxes/skybox23/06.jpg"
         },
         {
             "name": "skybox23_6",
-            "src": "resources/skyboxes/skybox/23/05.jpg"
+            "src": "resources/skyboxes/skybox23/05.jpg"
         },
         {
             "name": "skybox30_1",
-            "src": "resources/skyboxes/skybox/30/4.jpg"
+            "src": "resources/skyboxes/skybox30/4.jpg"
         },
         {
             "name": "skybox30_2",
-            "src": "resources/skyboxes/skybox/30/2.jpg"
+            "src": "resources/skyboxes/skybox30/2.jpg"
         },
         {
             "name": "skybox30_3",
-            "src": "resources/skyboxes/skybox/30/3.jpg"
+            "src": "resources/skyboxes/skybox30/3.jpg"
         },
         {
             "name": "skybox30_4",
-            "src": "resources/skyboxes/skybox/30/1.jpg"
+            "src": "resources/skyboxes/skybox30/1.jpg"
         },
         {
             "name": "skybox30_5",
-            "src": "resources/skyboxes/skybox/30/6.jpg"
+            "src": "resources/skyboxes/skybox30/6.jpg"
         },
         {
             "name": "skybox30_6",
-            "src": "resources/skyboxes/skybox/30/5.jpg"
+            "src": "resources/skyboxes/skybox30/5.jpg"
         },
         {
             "name": "skybox31_1",
-            "src": "resources/skyboxes/skybox/31/4.jpg"
+            "src": "resources/skyboxes/skybox31/4.jpg"
         },
         {
             "name": "skybox31_2",
-            "src": "resources/skyboxes/skybox/31/2.jpg"
+            "src": "resources/skyboxes/skybox31/2.jpg"
         },
         {
             "name": "skybox31_3",
-            "src": "resources/skyboxes/skybox/31/3.jpg"
+            "src": "resources/skyboxes/skybox31/3.jpg"
         },
         {
             "name": "skybox31_4",
-            "src": "resources/skyboxes/skybox/31/1.jpg"
+            "src": "resources/skyboxes/skybox31/1.jpg"
         },
         {
             "name": "skybox31_5",
-            "src": "resources/skyboxes/skybox/31/6.jpg"
+            "src": "resources/skyboxes/skybox31/6.jpg"
         },
         {
             "name": "skybox31_6",
-            "src": "resources/skyboxes/skybox/31/5.jpg"
+            "src": "resources/skyboxes/skybox31/5.jpg"
         },
         {
             "name": "skybox34_1",
-            "src": "resources/skyboxes/skybox/34/01.jpg"
+            "src": "resources/skyboxes/skybox34/01.jpg"
         },
         {
             "name": "skybox34_2",
-            "src": "resources/skyboxes/skybox/34/02.jpg"
+            "src": "resources/skyboxes/skybox34/02.jpg"
         },
         {
             "name": "skybox34_3",
-            "src": "resources/skyboxes/skybox/34/03.jpg"
+            "src": "resources/skyboxes/skybox34/03.jpg"
         },
         {
             "name": "skybox34_4",
-            "src": "resources/skyboxes/skybox/34/04.jpg"
+            "src": "resources/skyboxes/skybox34/04.jpg"
         },
         {
             "name": "skybox34_5",
-            "src": "resources/skyboxes/skybox/34/05.jpg"
+            "src": "resources/skyboxes/skybox34/05.jpg"
         },
         {
             "name": "skybox34_6",
-            "src": "resources/skyboxes/skybox/34/06.jpg"
+            "src": "resources/skyboxes/skybox34/06.jpg"
         },
         {
             "name": "skybox36_1",
-            "src": "resources/skyboxes/skybox/36/01.jpg"
+            "src": "resources/skyboxes/skybox36/01.jpg"
         },
         {
             "name": "skybox36_2",
-            "src": "resources/skyboxes/skybox/36/02.jpg"
+            "src": "resources/skyboxes/skybox36/02.jpg"
         },
         {
             "name": "skybox36_3",
-            "src": "resources/skyboxes/skybox/36/03.jpg"
+            "src": "resources/skyboxes/skybox36/03.jpg"
         },
         {
             "name": "skybox36_4",
-            "src": "resources/skyboxes/skybox/36/04.jpg"
+            "src": "resources/skyboxes/skybox36/04.jpg"
         },
         {
             "name": "skybox36_5",
-            "src": "resources/skyboxes/skybox/36/05.jpg"
+            "src": "resources/skyboxes/skybox36/05.jpg"
         },
         {
             "name": "skybox36_6",
-            "src": "resources/skyboxes/skybox/36/06.jpg"
+            "src": "resources/skyboxes/skybox36/06.jpg"
         },
 		{
             "name": "skybox1_1",
-            "src": "resources/skyboxes/skybox/1/01.jpg"
+            "src": "resources/skyboxes/skybox1/01.jpg"
         },
         {
             "name": "skybox1_2",
-            "src": "resources/skyboxes/skybox/1/02.jpg"
+            "src": "resources/skyboxes/skybox1/02.jpg"
         },
         {
             "name": "skybox1_3",
-            "src": "resources/skyboxes/skybox/1/03.jpg"
+            "src": "resources/skyboxes/skybox1/03.jpg"
         },
         {
             "name": "skybox1_4",
-            "src": "resources/skyboxes/skybox/1/04.jpg"
+            "src": "resources/skyboxes/skybox1/04.jpg"
         },
         {
             "name": "skybox1_5",
-            "src": "resources/skyboxes/skybox/1/05.jpg"
+            "src": "resources/skyboxes/skybox1/05.jpg"
         },
         {
             "name": "skybox1_6",
-            "src": "resources/skyboxes/skybox/1/06.jpg"
+            "src": "resources/skyboxes/skybox1/06.jpg"
         },
 		{
             "name": "skybox2_1",
-            "src": "resources/skyboxes/skybox/2/04.jpg"
+            "src": "resources/skyboxes/skybox2/04.jpg"
         },
         {
             "name": "skybox2_2",
-            "src": "resources/skyboxes/skybox/2/02.jpg"
+            "src": "resources/skyboxes/skybox2/02.jpg"
         },
         {
             "name": "skybox2_3",
-            "src": "resources/skyboxes/skybox/2/03.jpg"
+            "src": "resources/skyboxes/skybox2/03.jpg"
         },
         {
             "name": "skybox2_4",
-            "src": "resources/skyboxes/skybox/2/01.jpg"
+            "src": "resources/skyboxes/skybox2/01.jpg"
         },
         {
             "name": "skybox2_5",
-            "src": "resources/skyboxes/skybox/2/06.jpg"
+            "src": "resources/skyboxes/skybox2/06.jpg"
         },
         {
             "name": "skybox2_6",
-            "src": "resources/skyboxes/skybox/2/05.jpg"
+            "src": "resources/skyboxes/skybox2/05.jpg"
         },
 		{
             "name": "skybox18_1",
-            "src": "resources/skyboxes/skybox/18/04.jpg"
+            "src": "resources/skyboxes/skybox18/04.jpg"
         },
         {
             "name": "skybox18_2",
-            "src": "resources/skyboxes/skybox/18/02.jpg"
+            "src": "resources/skyboxes/skybox18/02.jpg"
         },
         {
             "name": "skybox18_3",
-            "src": "resources/skyboxes/skybox/18/03.jpg"
+            "src": "resources/skyboxes/skybox18/03.jpg"
         },
         {
             "name": "skybox18_4",
-            "src": "resources/skyboxes/skybox/18/01.jpg"
+            "src": "resources/skyboxes/skybox18/01.jpg"
         },
         {
             "name": "skybox18_5",
-            "src": "resources/skyboxes/skybox/18/06.jpg"
+            "src": "resources/skyboxes/skybox18/06.jpg"
         },
         {
             "name": "skybox18_6",
-            "src": "resources/skyboxes/skybox/18/05.jpg"
+            "src": "resources/skyboxes/skybox18/05.jpg"
         },
 		{
 			"name": "viking_m0_details",
