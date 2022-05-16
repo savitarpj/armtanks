@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "bonus_box_ruby",
-			"src": "https://savitarpj.github.io/armtanks/resources/bonus/boxes/ruby/box.webp"
+			"src": "resources/bonus/boxes/ruby/box.jpg"
 		},
 		{
 			"name": "flagBlueModel_img",
@@ -3684,19 +3684,19 @@
 		},
 		{
 			"name": "bonus_box_armor",
-			"src": "resources/bonus/boxes/armor/box_armr.jpg?v2021"
+			"src": "resources/bonus/boxes/armor/box_armr.jpg"
 		},
 		{
 			"name": "bonus_box_health",
-			"src": "resources/bonus/boxes/med/box_med.jpg?v2021"
+			"src": "resources/bonus/boxes/med/box_med.jpg"
 		},
 		{
 			"name": "bonus_box_damage",
-			"src": "resources/bonus/boxes/shot/box_shot.jpg?v2021"
+			"src": "resources/bonus/boxes/shot/box_shot.jpg"
 		},
 		{
 			"name": "bonus_box_nitro",
-			"src": "resources/bonus/boxes/nos/box_nos.jpg?v2021"
+			"src": "resources/bonus/boxes/nos/box_nos.jpg"
 		},
 		{
 			"name": "map_bridge_preview",
