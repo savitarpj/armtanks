@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "bonus_box_ruby",
-			"src": "resources/bonus/boxes/ruby/box.jpg"
+			"src": "https://savitarpj.github.io/armtanks/resources/bonus/boxes/ruby/box.webp"
 		},
 		{
 			"name": "flagBlueModel_img",
