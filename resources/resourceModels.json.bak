@@ -439,7 +439,7 @@
         },
         {
             "name": "bonus_box_gold",
-            "src": "resources/bonus/box.3ds"
+            "src": "resources/bonus/meteorite.3ds"
         },
 		{
 			"name": "bonus_box_spin",
