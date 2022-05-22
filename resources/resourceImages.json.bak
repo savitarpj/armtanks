@@ -3441,7 +3441,7 @@
 		},
 		{
 			"name": "garland_m0",
-			"src": "resources/colormaps/garland/image.jpg?v2020",
+			"src": "resources/colormaps/garland/image.jpg",
 			"multiframe": true,
 			"fps": 1,
 			"frame_heigth": 128,
