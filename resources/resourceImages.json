@@ -1525,18 +1525,6 @@
 			"src": "resources/hull/hunter/m3/preview.png"
 		},
 		{
-			"name": "hunter_m4_lightmap",
-			"src": "resources/hull/hunter/m4/lightmap.jpg"
-		},
-		{
-			"name": "hunter_m4_details",
-			"src": "resources/hull/hunter/m4/details.png"
-		},
-		{
-			"name": "hunter_m4_preview",
-			"src": "resources/hull/hunter/m4/preview.png"
-		},
-		{
 			"name": "titan_m0_lightmap",
 			"src": "resources/hull/titan/m0/lightmap.jpg"
 		},

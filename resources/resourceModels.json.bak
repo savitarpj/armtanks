@@ -341,6 +341,10 @@
             "name": "hunter_m3",
             "src": "resources/hull/hunter/m3/hull.3ds"
         },
+		{
+            "name": "hunter_m4",
+            "src": "resources/hull/hunter/m4/hull.3ds"
+        },
         {
             "name": "titan_m0",
             "src": "resources/hull/titan/m0/hull.3ds"
