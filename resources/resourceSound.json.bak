@@ -126,11 +126,11 @@
         "src": "turret/twins/plazma_shot.mp3"	
 	  },	  
 	  {
-		"name": "twinsxt_explosionSound",
+		"name": "twins_xt_explosionSound",
         "src": "turret/twins_xt/plazma_shot.mp3"	
 	  },
 	  {
-		"name": "twinsxt_shotSound",
+		"name": "twins_xt_shotSound",
         "src": "turret/twins_xt/plazma_shot.mp3"	
 	  },
 	  {
