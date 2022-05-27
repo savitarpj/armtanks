@@ -1021,15 +1021,15 @@
 			"src": "resources/turret/isida/m3/preview.png"
 		},
 		{
-			"name": "twins_xt_m0_details",
+			"name": "twinsxt_m0_details",
 			"src": "resources/turret/twins_xt/m0/details.png"
 		},
 		{
-			"name": "twins_xt_m0_preview",
+			"name": "twinsxt_m0_preview",
 			"src": "resources/turret/twins_xt/m0/preview.png"
 		},
 		{
-			"name": "twins_xt_m0_lightmap",
+			"name": "twinsxt_m0_lightmap",
 			"src": "resources/turret/twins_xt/m0/lightmap.jpg"
 		},
 		{
@@ -4363,7 +4363,7 @@
 			"src": "resources/turret/flamethrower/m3/fireball.png"
 		},
 		{
-			"name": "twins_xt_m0_explosionTexture",
+			"name": "twinsxt_m0_explosionTexture",
 			"src": "resources/turret/twins_xt/m0/explosion.png"
 		},
 		{
@@ -4383,7 +4383,7 @@
 			"src": "resources/turret/twins/m3/explosion.png"
 		},
 		{
-			"name": "twins_xt_m0_plasmaTexture",
+			"name": "twinsxt_m0_plasmaTexture",
 			"src": "resources/turret/twins_xt/m0/charge.png"
 		},
 		{
@@ -4403,7 +4403,7 @@
 			"src": "resources/turret/twins/m3/charge.png"
 		},
 		{
-			"name": "twins_xt_m0_shotTexture",
+			"name": "twinsxt_m0_shotTexture",
 			"src": "resources/turret/twins_xt/m0/shot.png"
 		},
 		{
