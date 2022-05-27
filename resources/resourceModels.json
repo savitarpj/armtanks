@@ -101,6 +101,10 @@
             "name": "smoky_cs_m3",
             "src": "resources/turret/smoky/m3/turret.3ds"
         },
+		{
+            "name": "twinsxt_m0",
+            "src": "resources/turret/twins_xt/m0/turret.3ds"
+        },
         {
             "name": "twins_m0",
             "src": "resources/turret/twins/m0/turret.3ds"

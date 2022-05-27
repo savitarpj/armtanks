@@ -127,11 +127,11 @@
 	  },	  
 	  {
 		"name": "twinsxt_explosionSound",
-        "src": "turret/twinsxt/plazma_shot.mp3"	
+        "src": "turret/twins_xt/plazma_shot.mp3"	
 	  },
 	  {
 		"name": "twinsxt_shotSound",
-        "src": "turret/twinsxt/plazma_shot.mp3"	
+        "src": "turret/twins_xt/plazma_shot.mp3"	
 	  },
 	  {
 		"name": "damagingSoundId",
