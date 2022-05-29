@@ -484,6 +484,10 @@
         {
             "name": "parachute_inner",
             "src": "resources/bonus/parachute/parachute_inner.3ds"
+        },
+        {
+            "name": "modelId_mine",
+            "src": "resources/mines/model/mine.3ds"
         }
     ]
 }
