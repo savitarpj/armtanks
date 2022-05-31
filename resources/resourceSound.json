@@ -154,12 +154,12 @@
         "src": "turret/thunder/thunder_shot.mp3"	
 	  },
 	  {
-		"name": "thunderxt_explosionSoundResourceId",
-        "src": "turret/thunderxt/thunder_fire.mp3"
+		"name": "hwthunder_explosionSoundResourceId",
+        "src": "turret/thunder/thunder_fire.mp3"
 	  },
 	  {
-		"name": "thunderxt_shotSoundResourceId",
-        "src": "turret/thunderxt/thunder_shot.mp3"
+		"name": "hwthunder_shotSoundResourceId",
+        "src": "turret/thunder/thunder_shot.mp3"
 	  },
 	  {
 		"name": "frezee_sound",

@@ -206,8 +206,8 @@
             "src": "resources/turret/twinsxt/m0/turret.3ds"
         },
 		{
-            "name": "thunderxt_m0",
-            "src": "resources/turret/thunderxt/m0/turret.3ds"
+            "name": "hwthunder_m0",
+            "src": "resources/turret/hwthunder/m0/turret.3ds"
         },
         {
             "name": "railgun_m1",

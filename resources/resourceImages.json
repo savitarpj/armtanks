@@ -741,16 +741,16 @@
 			"src": "resources/turret/thunder/m3/preview.png"
 		},
 		{
-			"name": "thunderxt_m0_lightmap",
-			"src": "resources/turret/thunderxt/m0/lightmap.jpg"
+			"name": "hwthunder_m0_lightmap",
+			"src": "resources/turret/hwthunder/m0/lightmap.jpg"
 		},
 		{
-			"name": "thunderxt_m0_details",
-			"src": "resources/turret/thunderxt/m0/details.png"
+			"name": "hwthunder_m0_details",
+			"src": "resources/turret/hwthunder/m0/details.png"
 		},
 		{
-			"name": "thunderxt_m0_preview",
-			"src": "resources/turret/thunderxt/m0/preview.png"
+			"name": "hwthunder_m0_preview",
+			"src": "resources/turret/hwthunder/m0/preview.png"
 		},
 		{
 			"name": "viking_m0_preview",
@@ -4567,12 +4567,12 @@
 			"src": "resources/turret/thunder/m3/shot.png"
 		},
 		{
-			"name": "thunderxt_m0_explosionResourceId",
-			"src": "resources/turret/thunderxt/m0/fire.png"
+			"name": "hwthunder_m0_explosionResourceId",
+			"src": "resources/turret/hwthunder/m0/fire.png"
 		},
 		{
-			"name": "thunderxt_m0_shotResourceId",
-			"src": "resources/turret/thunderxt/m0/shot.png"
+			"name": "hwthunder_m0_shotResourceId",
+			"src": "resources/turret/hwthunder/m0/shot.png"
 		},
 		{
 			"name": "frezee_m0_particleTextureResourceId",
