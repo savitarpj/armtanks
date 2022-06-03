@@ -2656,7 +2656,7 @@
 		},
 		{
 			"name": "100k_m0",
-			"src": "resources/colormaps/100k/image.jpg"
+			"src": "resources/colormaps/100k/image.webp"
 		},
 		{
 			"name": "100k_m0_preview",
