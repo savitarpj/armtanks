@@ -1081,16 +1081,16 @@
 			"src": "resources/turret/twins/m3/preview.png"
 		},
 		{
-			"name": "railguncs_m0_details",
-			"src": "resources/turret/railguncs/m0/details.png"
+			"name": "railgun_cs_m0_details",
+			"src": "resources/turret/railgun_cs/m0/details.png"
 		},
 		{
-			"name": "railguncs_m0_preview",
-			"src": "resources/turret/railguncs/m0/preview.png"
+			"name": "railgun_cs_m0_preview",
+			"src": "resources/turret/railgun_cs/m0/preview.png"
 		},
 		{
-			"name": "railguncs_m0_lightmap",
-			"src": "resources/turret/railguncs/m0/lightmap.jpg"
+			"name": "railgun_cs_m0_lightmap",
+			"src": "resources/turret/railgun_cs/m0/lightmap.jpg"
 		},
 		{
 			"name": "railgunxt_m0_details",
@@ -2656,7 +2656,7 @@
 		},
 		{
 			"name": "100k_m0",
-			"src": "resources/colormaps/100k/image.webp"
+			"src": "resources/colormaps/100k/image.jpg"
 		},
 		{
 			"name": "100k_m0_preview",
@@ -4023,8 +4023,8 @@
 			"src": "resources/maps/map_dualiti_preview.jpg"
 		},
 		{
-			"name": "railguncs_m0_shot",
-			"src": "resources/turret/railguncs/m0/railgun.png"
+			"name": "railgun_cs_m0_shot",
+			"src": "resources/turret/railgun_cs/m0/railgun.png"
 		},
 		{
 			"name": "railgunxt_m0_shot",
@@ -4175,16 +4175,16 @@
 			"src": "resources/turret/pumpkingun/m3/pumpkingun_shot_trail.png"
 		},
 		{
-			"name": "railguncs_m0_chargingPart1",
-			"src": "resources/turret/railguncs/m0/charge_part1.png"
+			"name": "railgun_cs_m0_chargingPart1",
+			"src": "resources/turret/railgun_cs/m0/charge_part1.png"
 		},
 		{
-			"name": "railguncs_m0_chargingPart2",
-			"src": "resources/turret/railguncs/m0/charge_part2.png"
+			"name": "railgun_cs_m0_chargingPart2",
+			"src": "resources/turret/railgun_cs/m0/charge_part2.png"
 		},
 		{
-			"name": "railguncs_m0_chargingPart3",
-			"src": "resources/turret/railguncs/m0/charge_part3.png"
+			"name": "railgun_cs_m0_chargingPart3",
+			"src": "resources/turret/railgun_cs/m0/charge_part3.png"
 		},
 		{
 			"name": "railgunxt_m0_chargingPart1",
