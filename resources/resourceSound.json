@@ -246,8 +246,8 @@
         "src": "turret/railgunxt/railgun.mp3"
 	  },
 	  {
-		"name": "railguncs_shot",
-        "src": "turret/railguncs/railgun.mp3"
+		"name": "railgun_cs_shot",
+        "src": "turret/railgun_cs/railgun.mp3"
 	  },
 	  {
 		"name": "terminator_shot",
