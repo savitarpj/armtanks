@@ -190,8 +190,8 @@
             "src": "resources/turret/ricochet/m3/turret.3ds"
         },
 		{
-            "name": "railgun_cs_m0",
-            "src": "resources/turret/railgun_cs/m0/turret.3ds"
+            "name": "railguncs_m0",
+            "src": "resources/turret/railguncs/m0/turret.3ds"
         },
         {
             "name": "railgun_m0",
@@ -459,7 +459,7 @@
         },
 		{
             "name": "bonus_box_ruby",
-            "src": "resources/bonus/box.3ds"
+            "src": "resources/bonus/tyomht.3ds"
         },
         {
             "name": "bonus_box_damage",
