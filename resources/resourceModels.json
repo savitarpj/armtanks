@@ -189,10 +189,6 @@
             "name": "ricochet_m3",
             "src": "resources/turret/ricochet/m3/turret.3ds"
         },
-		{
-            "name": "railgun_cs_m0",
-            "src": "resources/turret/railgun_cs/m0/turret.3ds"
-        },
         {
             "name": "railgun_m0",
             "src": "resources/turret/railgun/m0/turret.3ds"
